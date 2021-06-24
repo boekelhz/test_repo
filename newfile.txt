@@ -3,3 +3,5 @@ This is a new file!
 I can open it with Notepad++ because that is somewhat better than Notepad.
 
 Test a second edit. Will diff figure out what really changed?
+
+Another line.
